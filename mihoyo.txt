@@ -1,1 +1,2 @@
 api-static.mihoyo.com.w.cdngslb.com
+autopatchhk.yuanshen.com
