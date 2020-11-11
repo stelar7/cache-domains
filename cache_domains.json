@@ -41,6 +41,11 @@
 			"domain_files": ["hirez.txt"]
 		},
 		{
+			"name": "mihoyo",
+			"description": "Mihoyo CDN",
+			"domain_files": ["mihoyo.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
