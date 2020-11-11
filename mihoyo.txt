@@ -1,4 +1,5 @@
 api-static.mihoyo.com.w.cdngslb.com
+sdk-os-static.mihoyo.com
 autopatchhk.yuanshen.com
 autopatchhk-yuanshen-com-idvdgc2.qiniudns.com
 autopatchhk-yuanshen-com-idvdgc2.line.qiniudns.com
