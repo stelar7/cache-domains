@@ -11,6 +11,11 @@
 			"domain_files": ["blizzard.txt"]
 		},
 		{
+			"name": "blackdesertonline",
+			"description": "CDN for bdo",
+			"domain_files": ["bdo.txt"]
+		},
+		{
 			"name": "bsg",
 			"description": "CDN for Battle State Games, Tarkov",
 			"domain_files": ["bsg.txt"]
